@@ -136,10 +136,7 @@ The time to activate files :
 			**img_cap.exe - 10 am Each day excluding Weekends.
 			predict.exe - 4:30 pm Each day excluding Weekends.**
 
-## Path to files :
-img_cap.py and img_cap.exe - **C:\Final Project\Axiscades\data**
-predict.py and predict.exe - **C:\Final Project\Axiscades\data**
-System Scheduler - ***Run Command System Scheduler***
+
 
 
 
