@@ -2,6 +2,12 @@
 
 # EMOTION DETECTION 
 
+# NOTE
+If need of the code, 
+mail me : saikrishnadas666@gmail.com
+or
+https://www.fiverr.com/share/Kwevvk
+
 ## INTRODUCTION 
 
 Live prediction of emotion on a person or many for a period and returning a visualization chart.
